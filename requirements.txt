@@ -1,0 +1,16 @@
+# FastAPI for building the API
+fastapi
+
+# Uvicorn for running the ASGI server
+uvicorn
+
+# OpenAI Whisper for ASR (Automatic Speech Recognition)
+openai-whisper
+
+# PyTorch for machine learning
+torch
+
+# Transformers for text summarization
+transformers
+
+
